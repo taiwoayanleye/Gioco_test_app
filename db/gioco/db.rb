@@ -1,0 +1,6 @@
+require "#{Rails.root}/db/gioco/create_badge_noob_teacher.rb"
+require "#{Rails.root}/db/gioco/create_badge_medium_teacher.rb"
+require "#{Rails.root}/db/gioco/create_badge_hard_teacher.rb"
+require "#{Rails.root}/db/gioco/create_badge_beginner_commenter.rb"
+require "#{Rails.root}/db/gioco/create_badge_advanced_commenter.rb"
+require "#{Rails.root}/db/gioco/remove_badge_advanced.rb"
